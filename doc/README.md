@@ -1,2 +1,3 @@
 - [How to Install Apache JMeter on Windows?](https://www.geeksforgeeks.org/how-to-install-apache-jmeter-on-windows/)
 - [JMeter API Testing](https://www.youtube.com/watch?v=8r5LYzUIepo)
+- [REST API Testing using Apache JMeter (step by step guide)](https://innakozak.medium.com/rest-api-testing-using-apache-jmeter-step-by-step-guide-e2122ece1ea0)
